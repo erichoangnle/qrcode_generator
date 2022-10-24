@@ -28,7 +28,7 @@ git clone https://github.com/erichoangnle/qrcode_generator.git
 
 ### Usage
 
-Simply enter texts or links to the input field and press <Generate QR Code> or press Enter to generate Qr Code. Additionally, an option to 
+Simply enter texts or links to the input field and press <Generate QR Code> or press Enter to generate QR Code. Additionally, an option to 
 save QR Code as PNG file is also provided.
 
 ## Contact
