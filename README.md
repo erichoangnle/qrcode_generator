@@ -37,4 +37,4 @@ Email: erichoangnle@gmail.com
 
 Facebook: https://www.facebook.com/eric.le.520900
 
-Project link: https://github.com/erichoangnle/fitness.git
+Project link: https://github.com/erichoangnle/qrcode_generator.git
